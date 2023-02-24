@@ -83,8 +83,7 @@ Endpoint |HTTP Method | CRUD Method | Result
  ```
 
 ## Documenting our endpoints
-We will use coreapi to document our endpoints, install coreapi in our environment:  
-``` pip install coreapi ```
+We will use coreapi to document our endpoints, install coreapi in our environment:  ``` pip install coreapi ```
 
 Add this to installed apps in ecommerce/settings.py
 
@@ -106,6 +105,7 @@ urlpatterns = [
 By navigating to http://localhost:8000/api/documentation/ in the browser we’ll be able to see the full documentation of our CRUD API endpoint:-
 
 ![api](https://user-images.githubusercontent.com/86952339/221319127-d10e31f3-671a-4416-a693-7d047d5c9a63.png)
+
 
 ## Docker
 We have Dockerfile and docker-compose.yml as our project is dockerize
