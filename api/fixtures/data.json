@@ -1,0 +1,93 @@
+[
+{
+    "model": "api.products",
+    "pk": 1,
+    "fields": {
+        "name": "magazine",
+        "price": 100,
+        "category": "Consumer products",
+        "description": "for fun",
+        "image": "",
+        "created": "2023-02-23T20:18:44.289Z",
+        "updated": "2023-02-23T20:18:44.289Z"
+    }
+},
+{
+    "model": "api.products",
+    "pk": 2,
+    "fields": {
+        "name": "grinder",
+        "price": 500,
+        "category": "Consumer products",
+        "description": "to grind somethig",
+        "image": "",
+        "created": "2023-02-23T20:20:10.121Z",
+        "updated": "2023-02-23T20:20:10.121Z"
+    }
+},
+{
+    "model": "api.products",
+    "pk": 3,
+    "fields": {
+        "name": "nut and bolts",
+        "price": 500,
+        "category": "Industrial products",
+        "description": "make or fix something.",
+        "image": "",
+        "created": "2023-02-23T20:21:08.039Z",
+        "updated": "2023-02-23T20:21:08.039Z"
+    }
+},
+{
+    "model": "api.products",
+    "pk": 4,
+    "fields": {
+        "name": "chocolates",
+        "price": 200,
+        "category": "Consumer products",
+        "description": "to eat",
+        "image": "",
+        "created": "2023-02-23T20:21:51.723Z",
+        "updated": "2023-02-23T20:21:51.723Z"
+    }
+},
+{
+    "model": "api.products",
+    "pk": 5,
+    "fields": {
+        "name": "laptops",
+        "price": 20000,
+        "category": "Consumer products",
+        "description": "for work",
+        "image": "",
+        "created": "2023-02-23T20:22:34.962Z",
+        "updated": "2023-02-23T20:22:34.962Z"
+    }
+},
+{
+    "model": "api.products",
+    "pk": 6,
+    "fields": {
+        "name": "school bag",
+        "price": 1000,
+        "category": "Consumer products",
+        "description": "to store books and things",
+        "image": "",
+        "created": "2023-02-23T20:23:15.780Z",
+        "updated": "2023-02-23T20:23:15.780Z"
+    }
+},
+{
+    "model": "api.products",
+    "pk": 7,
+    "fields": {
+        "name": "pencil",
+        "price": 10,
+        "category": "Consumer products",
+        "description": "to write or draw",
+        "image": "",
+        "created": "2023-02-23T20:24:10.143Z",
+        "updated": "2023-02-23T20:24:10.143Z"
+    }
+}
+]
