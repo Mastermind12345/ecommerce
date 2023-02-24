@@ -83,7 +83,8 @@ Endpoint |HTTP Method | CRUD Method | Result
  ```
 
 ## Documenting our endpoints
-We will use coreapi to document our endpoints, install coreapi in our environment:
+We will use coreapi to document our endpoints, install coreapi in our environment:-
+
 ``` pip install coreapi ```
 
 Add this to installed apps in ecommerce/settings.py
